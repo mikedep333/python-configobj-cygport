@@ -10,4 +10,3 @@ an ini file round tripper. Its main feature is that it is very easy to use,
 with a straightforward programmer's interface and a simple syntax for config
 files."
 HOMEPAGE="https://github.com/DiffSK/configobj"
-SRC_URI="https://github.com/DiffSK/configobj/archive/v${PV}.tar.gz"
