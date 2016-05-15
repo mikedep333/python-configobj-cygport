@@ -1,6 +1,7 @@
 inherit distutils
 
 NAME="python-configobj"
+ARCH=noarch
 VERSION=5.0.6
 RELEASE=1
 CATEGORY="Python"
