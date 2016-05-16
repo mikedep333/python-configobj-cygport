@@ -1,2 +1,2 @@
 # python-configobj-cygport
-Cygwin Packaging for configobj
+Cygwin Packaging for configobj (Python 2)
